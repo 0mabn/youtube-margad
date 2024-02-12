@@ -1,5 +1,5 @@
 "use client"
-import ReactPlayer from 'react-player/youtube'
+import ReactPlayer from 'react-player;
 import { useState, useEffect } from 'react';
 import Navigations from '../navigations/page';
 import Image from 'next/image';
